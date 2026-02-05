@@ -1,0 +1,7 @@
+{
+  "name": "Jeopardy Yarmouk - Medical Esports",
+  "description": "A high-energy medical education game platform featuring live competitions, leaderboard tracking, and AI-powered avatar customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
